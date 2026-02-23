@@ -42,7 +42,7 @@
 
 <p align="left">
   <a href="https://github.com/devjup">
-    <img src="https://camo.githubusercontent.com/3953dc13669d88650fb72fc15af270dee6afd56e13b039c2cdea281460a16ec7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d617277696e3139393126636f6c6f723d303030303030" alt="Visualizações do perfil" data-canonical-src="https://komarev.com/ghpvc/?username=devjup&ampcolor=000000" style="max-width: 100%;">
+    <img src="https://komarev.com/ghpvc/?username=devjup&ampcolor=000000" alt="Visualizações do perfil" data-canonical-src="https://komarev.com/ghpvc/?username=devjup&ampcolor=000000" style="max-width: 100%;">
   </a>
   
 <p align="left">
